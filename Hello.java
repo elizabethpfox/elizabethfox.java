@@ -1,4 +1,4 @@
-import java.util.Scanner; // test
+import java.util.Scanner; // hi world 
 
 public class Hello {
     public static void main(String args[]) {
